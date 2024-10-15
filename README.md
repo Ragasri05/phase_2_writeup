@@ -54,6 +54,42 @@ go to flag.html.
 
 
 
+![image](https://github.com/user-attachments/assets/9efb103a-d13b-4afa-a5bd-294efb0c66fe)
+
+steps to get the flag
+
+step 1:
+
+![image](https://github.com/user-attachments/assets/bb4192e6-a800-4d15-a6c5-cce9c3920c99)
+
+find the type of flag .
+
+commands used : file
+
+Step 2:
+
+![image](https://github.com/user-attachments/assets/e2e4f8f4-1cb6-4ecd-90fd-da79d176b837)
+
+found readable strings from the file 
+
+commands used: strings 
+
+step 3:
+
+![Screenshot 2024-10-15 230027](https://github.com/user-attachments/assets/97b2e885-f0dd-413c-861a-32baacaac4fc)
+
+these strings different from other text.
+
+step 4:
+
+decode the text.
+
+
+
+
+
+
+
 
 
 
