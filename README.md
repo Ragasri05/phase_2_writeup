@@ -84,6 +84,33 @@ step 4:
 
 decode the text.
 
+the string can be decoded using base 64 decoding.
+
+![image](https://github.com/user-attachments/assets/c78aa8b7-069a-4b11-a2f1-aa71ca388eae)
+
+step 5 :
+
+open the link 
+
+![image](https://github.com/user-attachments/assets/6d823818-3615-4ba3-b5e2-818643381bbd)
+
+
+ssh brute 
+
+
+![image](https://github.com/user-attachments/assets/d8bfee3a-a654-48fb-a654-e96a2ac18037)
+
+
+![image](https://github.com/user-attachments/assets/9972bd50-90a2-47e0-88c6-8b13666f3063)
+
+
+![image](https://github.com/user-attachments/assets/2798efa0-7379-45ed-9309-28f738418fc2)
+
+
+![image](https://github.com/user-attachments/assets/1cef6c5d-456d-4669-aa67-a971f94828c2)
+
+
+![image](https://github.com/user-attachments/assets/edff4e53-8008-404d-b76a-e444b43594ff)
 
 
 
