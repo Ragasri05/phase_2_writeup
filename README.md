@@ -145,7 +145,7 @@ install hashid using "sudo apt install hashid"
 
 4. ![image](https://github.com/user-attachments/assets/8d97fb80-0b79-4a9a-a3e3-69f70a4ab4ba)
 
-5. 
+5.  is bycrypt(since it starts with $2b$). mode is 3200 
 step 2:
 
 create a text file with each hash in separate line.
@@ -183,11 +183,15 @@ to get the mode use the command: "hashcat --help"
 
 ![image](https://github.com/user-attachments/assets/9c9b02a9-fd1e-4a2e-96d7-2f1f0f814124)
 
+
+![image](https://github.com/user-attachments/assets/7e925abc-30e1-4a2d-9a1c-fbf5e1025b0e)
+
+
 step 5: 
 
 give the command : 
 
-hashcat -m <mode> -a 0 hashes.txt /usr/share/wordlists/rockyou.txt.gz --show
+hashcat -m mode -a 0 hashes.txt /usr/share/wordlists/rockyou.txt.gz --show
 
 ![image](https://github.com/user-attachments/assets/3e21c7fa-01cc-4f9c-bf5a-c461a9a14896)
 
@@ -204,9 +208,25 @@ hashcat -m <mode> -a 0 hashes.txt /usr/share/wordlists/rockyou.txt.gz --show
 ![image](https://github.com/user-attachments/assets/837ab876-77f3-4063-b64a-b0dd34405e29)
 
 
-note: removed the first hash .
+note: removed the first hash from the hashes.txt file.
 
 ![image](https://github.com/user-attachments/assets/9168cf04-bcfd-44b2-a1f7-c9f4ae0af022)
+
+
+![image](https://github.com/user-attachments/assets/3eb08399-5174-4e90-a912-e0c3cce4f437)
+
+
+![image](https://github.com/user-attachments/assets/ccb8f499-3af9-43cf-b868-46795a1ca4d2)
+
+
+![image](https://github.com/user-attachments/assets/3d09b740-135e-47e5-93b9-40866957ebe1)
+
+
+![image](https://github.com/user-attachments/assets/8e46476f-6d14-42eb-8a1c-97397f33168f)
+
+
+
+
 
 
 
