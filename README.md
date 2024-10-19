@@ -1,3 +1,28 @@
+The Cryptic Dance 
+
+![image](https://github.com/user-attachments/assets/82682a63-565e-4cfa-83ed-05519c369deb)
+
+
+![image](https://github.com/user-attachments/assets/d0f9c0aa-eb28-48c3-afbe-3688daf0b426)
+
+![image](https://github.com/user-attachments/assets/27c73c89-6da5-4d9c-9a39-415938da4083)
+
+from the above image the decoded text is : ciphersarecool
+
+
+Key code Mystique
+
+
+<img width="562" alt="image" src="https://github.com/user-attachments/assets/ff16aa57-5e5b-4e3d-a702-aa8282ba0f51">
+
+
+![image](https://github.com/user-attachments/assets/ed6af4d8-fb20-4304-8ade-23c4f56696da)
+
+if we observe the keyboard, "a" is enclosed by qsz; n is enclosed by bhm; "d" is enclosed by sefc; "r" is enclosed by edft; "o" is enclosed by iklp; "i" is enclosed by ujko; "d" is enclosed by sefc; "i" is enclosed by ujko; "s" is enclosed by axdw; "f" is enclosed by drgv; "u" is enclosed by yhji; "n" is enclosed by bhjm.
+
+so the decoded text is "androidisfun"
+
+
 
 ![image](https://github.com/user-attachments/assets/c50f21e0-b0fd-45b3-a066-995e0f813dab)
 
