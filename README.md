@@ -98,19 +98,43 @@ open the link
 ssh brute 
 
 
+![image](https://github.com/user-attachments/assets/a8bea569-b30c-49a8-b6b6-ed52ee79e97d)
+
+
+step 1: looking for password in rockyou.txt (it is inbuilt file in kali linux). 
+
+commands used: hydra -l username -p /usr/share/wordlists/rockyou.txt.gz ssh://ipaddress:port
+
 ![image](https://github.com/user-attachments/assets/d8bfee3a-a654-48fb-a654-e96a2ac18037)
 
+password is bubbles
+
+step 2: login to the ip address.
+
+commands used:  ssh username@ip -p port
 
 ![image](https://github.com/user-attachments/assets/9972bd50-90a2-47e0-88c6-8b13666f3063)
 
+enter the password.
 
 ![image](https://github.com/user-attachments/assets/2798efa0-7379-45ed-9309-28f738418fc2)
+
+step 3: list all the files
+
+commands used: ls
 
 
 ![image](https://github.com/user-attachments/assets/1cef6c5d-456d-4669-aa67-a971f94828c2)
 
 
+step 4: open the file 
+
+commands used: cat filename
+
+
 ![image](https://github.com/user-attachments/assets/edff4e53-8008-404d-b76a-e444b43594ff)
+
+
 
 the engima of sh3ron
 
