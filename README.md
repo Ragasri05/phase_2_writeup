@@ -341,7 +341,48 @@ reapeated this till i got the flag
 
 
 
+The open Book
 
+![image](https://github.com/user-attachments/assets/2563d53d-2ba9-4782-90c0-231ba88b3278)
+
+
+searched in google about Ethereum Sepolia
+
+open this website
+
+![image](https://github.com/user-attachments/assets/7815be16-fec4-4230-82eb-b1b319c79af1)
+
+copy paste the etherium sepolia address in sepolia testnet explorer  
+
+![image](https://github.com/user-attachments/assets/f18f8b15-782e-41f6-8df4-a6310b972b4d)
+
+
+look for flag and open the transaction.
+
+The flag is hidden here
+
+<img width="978" alt="image" src="https://github.com/user-attachments/assets/1e3da3ad-1a1e-4399-978a-882eb0b30e4a">
+
+
+<img width="683" alt="image" src="https://github.com/user-attachments/assets/1d524263-117a-49cc-b9f7-c2d52a773eea">
+
+open the link
+
+search for flag in these
+
+![image](https://github.com/user-attachments/assets/6efdfcd4-6f0d-4f1a-96b8-23bbf4b4ac0b)
+
+the flag is hidden here 
+<img width="1007" alt="image" src="https://github.com/user-attachments/assets/8bc09e3f-4022-40e1-8fb9-1f4257c7df06">
+
+click on show more
+![image](https://github.com/user-attachments/assets/78bfae6d-9805-4111-9b9f-325913cc2729)
+
+docode the text
+![image](https://github.com/user-attachments/assets/1c042ee4-e463-4fb4-bcca-10b9dd6cd6da)
+
+
+![image](https://github.com/user-attachments/assets/1bcda4da-7f50-402d-82e7-976a2237e80f)
 
 
 
