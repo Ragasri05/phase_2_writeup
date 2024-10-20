@@ -77,6 +77,8 @@ go to flag.html.
 
 ![image](https://github.com/user-attachments/assets/0b2d1da5-14f7-4108-8d3a-177b74fc9794)
 
+The Dragons Riddle 
+
 
 
 ![image](https://github.com/user-attachments/assets/9efb103a-d13b-4afa-a5bd-294efb0c66fe)
@@ -113,11 +115,19 @@ the string can be decoded using base 64 decoding.
 
 ![image](https://github.com/user-attachments/assets/c78aa8b7-069a-4b11-a2f1-aa71ca388eae)
 
+![image](https://github.com/user-attachments/assets/6d823818-3615-4ba3-b5e2-818643381bbd)
+
 step 5 :
 
-open the link 
+decode the octals using command : printf 
 
-![image](https://github.com/user-attachments/assets/6d823818-3615-4ba3-b5e2-818643381bbd)
+![image](https://github.com/user-attachments/assets/71362056-a4ad-4329-9cc6-660bd86f5dc9)
+
+open the link.
+
+![image](https://github.com/user-attachments/assets/32593653-285e-4e04-94f7-63729c48b85a)
+
+
 
 
 ssh brute 
@@ -167,7 +177,6 @@ the engima of sh3ron
 
 ![image](https://github.com/user-attachments/assets/a98534a1-972c-44de-92c0-ecb14e7765c7)
 
-![image](https://github.com/user-attachment/assets/c3208fb2-b6d3-4876-b3f2-3596b4a13f31)
 
 
 John loves Hashes 
