@@ -34,7 +34,7 @@ Step   1:
 
 nikto: Scan web server for known vulnerabilities
 
--host: Host(s) to target. Can be an IP address, hostname or text file of hosts
+-host: focuses it's scanning on a specific website or ip address.
 
 give the ip address with port.
 
