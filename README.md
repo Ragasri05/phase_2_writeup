@@ -153,15 +153,6 @@ commands used: cat filename
 ![image](https://github.com/user-attachments/assets/edff4e53-8008-404d-b76a-e444b43594ff)
 
 
-
-the engima of sh3ron
-
-![image](https://github.com/user-attachments/assets/fe251244-93d9-4f31-8866-8095b8e10c1a)
-
-![image](https://github.com/user-attachments/assets/a98534a1-972c-44de-92c0-ecb14e7765c7)
-
-
-
 John loves Hashes 
 
 ![image](https://github.com/user-attachments/assets/d74bc252-70b7-4122-8a92-36c6dffc1450)
